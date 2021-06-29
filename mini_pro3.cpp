@@ -27,7 +27,7 @@ struct Point {
 		return Point(x - rhs.x, y - rhs.y);
 	}
 };
-
+//copy con
 class OthelloBoard {
 public:
     enum SPOT_STATE {
